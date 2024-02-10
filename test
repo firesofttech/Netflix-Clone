@@ -124,7 +124,7 @@ root.title("Scientific Calculator")
 root.geometry("680x486+100+100")
 
 # Setting the background color
-root.config(bg="red")
+root.config(bg="yellow")
 
 
 # Entry field
